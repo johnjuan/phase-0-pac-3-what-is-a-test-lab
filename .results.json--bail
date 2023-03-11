@@ -1,0 +1,60 @@
+{
+  "stats": {
+    "suites": 4,
+    "tests": 3,
+    "passes": 3,
+    "pending": 0,
+    "failures": 0,
+    "start": "2023-03-11T04:33:26.799Z",
+    "end": "2023-03-11T04:33:27.671Z",
+    "duration": 872
+  },
+  "tests": [
+    {
+      "title": "returns \"Susan\"",
+      "fullTitle": "what-is-a-test Name returns \"Susan\"",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "is less than 40",
+      "fullTitle": "what-is-a-test Height is less than 40",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "gives the name and height",
+      "fullTitle": "what-is-a-test Message gives the name and height",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "returns \"Susan\"",
+      "fullTitle": "what-is-a-test Name returns \"Susan\"",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "is less than 40",
+      "fullTitle": "what-is-a-test Height is less than 40",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "gives the name and height",
+      "fullTitle": "what-is-a-test Message gives the name and height",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
